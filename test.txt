@@ -4,6 +4,8 @@
 
 9101112
 
+DEF
+
 rm刪除的意思
 -r recursive ->可以刪除每一層檔案夾
 -f force 強制
